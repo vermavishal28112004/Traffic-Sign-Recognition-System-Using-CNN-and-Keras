@@ -120,11 +120,15 @@ Traffic sign recognition is essential for intelligent transportation systems and
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Author & C0-Author
 
 **Tarang Verma**  
 GitHub: [@tarangver](https://github.com/tarangver)  
 LinkedIn: [@verma-tarang](https://www.linkedin.com/in/verma-tarang/)
+
+**Vishal Verma**  
+GitHub: [@vermavishal28112004](https://github.com/vermavishal28112004)  
+LinkedIn: [@vishal-verma-14796b286](https://www.linkedin.com/in/vishal-verma-14796b286/)
 
 ---
 
